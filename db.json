@@ -1,0 +1,14 @@
+{
+  "optionsDelivery" : [
+    {
+      "shippingMethod": "PAC",
+      "deliveryTime": "2 - 6",
+      "deliveryFee": 123
+    },
+    {
+      "shippingMethod": "Sedex",
+      "deliveryTime": "1 - 4",
+      "deliveryFee": 321
+    }
+  ]
+}
